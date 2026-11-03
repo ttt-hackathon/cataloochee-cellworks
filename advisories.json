@@ -1,0 +1,29 @@
+{
+  "company": "Cataloochee Cell Works",
+  "notice": "Fictional company created for a training exercise.",
+  "updated": "2026-11-02T09:00:00-05:00",
+  "advisories": [
+    {
+      "id": "CCW-2026-014",
+      "date": "2026-11-02T09:00:00-05:00",
+      "severity": "low",
+      "category": "Logistics",
+      "title": "Thanksgiving week shipping schedule",
+      "details": "Our plant will be closed November 26 and 27 for Thanksgiving. Orders scheduled to ship those days will ship November 25 instead. No change to quantities.",
+      "products_affected": ["All battery packs"],
+      "expected_delay_weeks": 0,
+      "status": "active"
+    },
+    {
+      "id": "CCW-2026-013",
+      "date": "2026-09-14T10:30:00-04:00",
+      "severity": "low",
+      "category": "Production",
+      "title": "Line 1 scheduled maintenance complete",
+      "details": "Planned maintenance on cell assembly Line 1 finished on schedule. Both lines are running at full capacity.",
+      "products_affected": [],
+      "expected_delay_weeks": 0,
+      "status": "resolved"
+    }
+  ]
+}
